@@ -8,7 +8,7 @@
     <meta name="author" content="Niels Kornerup">
     <link rel="icon" href="./logo.png">
 
-    <title>Goingo</title>
+    <title>Home</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrapFiles/bootstrap.css" rel="stylesheet">
@@ -34,13 +34,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand">Objects/Nature</a>
+          <a class="navbar-brand">Animal/Human sounds</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-	    <li><a href="./index.html">帰る</a></li>
+            <li><a href="./index.html">帰る</a></li>
             <li><a href="./favorites.html">最上</a></li>
-            <li><a href="./giseigo.html">擬声語</a></li>
+            <li><a href="./giongo.html">擬音語</a></li>
             <li><a href="./gitaigo.html">擬態語</a></li>
 	    <li><a href="./quiz.html">クイズ</a></li>
           </ul>
