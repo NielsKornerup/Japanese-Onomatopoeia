@@ -8,7 +8,7 @@
     <meta name="author" content="Niels Kornerup">
     <link rel="icon" href="./logo.png">
 
-    <title>Home</title>
+    <title>Gitaigo</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrapFiles/bootstrap.css" rel="stylesheet">
@@ -49,9 +49,15 @@
     </nav>
 
     <div class="container">
+	<h1 align="center"> 擬情語 </h1>
+<h3>Gijougo</h3>
+Worrying about the past: くよくよ
+Unable to make decisions because of shyness: もじもじ
+Fascinated by something beautiful: うっとり
+Losing time:あわあわ
+Excited from anticipation: わくわく
+Happy, Cheerfully lighthearted: うきうき
 
-      <div class="starter-template">
-	<marquee><h1>[Stuff goes here]</h1></marquee>
       </div>
 
     </div><!-- /.container -->
