@@ -8,7 +8,7 @@
     <meta name="author" content="Niels Kornerup">
     <link rel="icon" href="./logo.png">
 
-    <title>Gitaigo</title>
+    <title>Home</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrapFiles/bootstrap.css" rel="stylesheet">
@@ -34,14 +34,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand">Conditions/States</a>
+          <a class="navbar-brand">Home</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-	    <li><a href="./index.html">帰る</a></li>
             <li><a href="./favorites.html">最上</a></li>
             <li><a href="./giseigo.html">擬声語</a></li>
             <li><a href="./giongo.html">擬音語</a></li>
+            <li><a href="./gitaigo.html">擬態語</a></li>
 	    <li><a href="./quiz.html">クイズ</a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -51,7 +51,10 @@
     <div class="container">
 
       <div class="starter-template">
-	<marquee><h1>[Stuff goes here]</h1></marquee>
+	<h1 align="center">ぼくたちの オノマトペ プロジェクト</h1>
+	ニルス　ー　私は　かみに　なる。<br>
+	ノア　ー　あなたは　こわいと　おもいます。<br>
+	アレクス　ー　私は　せいと C　です。
       </div>
 
     </div><!-- /.container -->

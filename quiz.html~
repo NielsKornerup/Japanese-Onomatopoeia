@@ -8,7 +8,7 @@
     <meta name="author" content="Niels Kornerup">
     <link rel="icon" href="./logo.png">
 
-    <title>Giseigo</title>
+    <title>Quiz</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrapFiles/bootstrap.css" rel="stylesheet">
@@ -34,35 +34,25 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand">Animal/Human sounds</a>
+          <a class="navbar-brand">Home</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="./index.html">帰る</a></li>
+	    <li><a href="./index.html">帰る</a></li>
             <li><a href="./favorites.html">最上</a></li>
+            <li><a href="./gijougo.html">擬声語</a></li>
             <li><a href="./giongo.html">擬音語</a></li>
-            <li><a href="./gitaigo.html">擬態語</a></li>
-	    <li><a href="./quiz.html">クイズ</a></li>
+            <li><a href="./giyougo.html">擬態語</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
 
     <div class="container">
-<h1> 擬声語 </h1>
-Cats: にゃーお <br>
-Chicks: ぴーぴー <br>
-Dogs: わんわん <br>
-Duck: がーがー <br>
-Elephant: ぱおーん <br>
-Fox: けんけん <br>
-Frogs :けろけろ(small)/げろげろ(large) <br>
-Horse: ひひーん <br>
-Owl: ほーー <br>
-Pig: ぶーぶー <br>
-Rooster: こけこっこー <br>
-Turtle: む <br>
-Woodpecker:  かかかかかか
+
+      <div class="starter-template">
+	<marquee><h1>[Stuff goes here]</h1></marquee>
+      </div>
 
     </div><!-- /.container -->
 
